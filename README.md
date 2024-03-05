@@ -4,7 +4,7 @@ Simulation of PID controllers and control of dynamic systems using feedback cont
 # MATLAB Plots
 
 CSTR Reactor Schematic<br>
-![CSTR](./Gallery/Disturbance_Response.png)
+![CSTR](./Gallery/CSTR.png)
 <br>
 
 Step Response<br>
